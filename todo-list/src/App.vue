@@ -2,7 +2,7 @@
   <div id="app">
     <div class="ui inverted vertical masthead center aligned segment">
       <div class="ui text container">
-        <h1 class="ui inverted header"> Vue TodoList App 3</h1>
+        <h1 class="ui inverted header"> TodoList App em Vue.js</h1>
         <h2 class="ui inverted header">Elierton Emerenciano
           <div class="sub header">Cloud Student JavaScript | Node.js</div>
         </h2>
