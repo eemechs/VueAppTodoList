@@ -2,20 +2,20 @@
   <div id="app">
     <div class="ui inverted vertical masthead center aligned segment">
       <div class="ui text container">
-        <h1 class="ui inverted header"> Aplicação Todo List com Vue.js 3</h1>
+        <h1 class="ui inverted header"> Vue TodoList App 3</h1>
         <h2 class="ui inverted header">Elierton Emerenciano
-          <div class="sub header">Cloud Student JavaScript|Node.js @ Microsoft</div>
+          <div class="sub header">Cloud Student JavaScript | Node.js</div>
         </h2>
-        <h3 class="ui inverted header">Rio de Janeiro, Brasil - 2020</h3>
-        <a class="tiny ui youtube button" type="button" href="https://www.youtube.com/user/l32759">
+        <h3 class="ui inverted header">Natal, Brasil - 2020</h3>
+        <a class="tiny ui youtube button" type="button" href="https://www.youtube.com/channel/UC57GmWVFlDroBQ4sgMcN_AA?view_as=subscriber">
           <i class="youtube icon"></i>
           YouTube
         </a>
-        <a class="tiny ui linkedin button" type="button" href="https://www.linkedin.com/in/glaucialemos/">
+        <a class="tiny ui linkedin button" type="button" href="https://www.linkedin.com/in/eliertonemerenciano/">
           <i class="linkedin icon"></i>
           LinkedIn
         </a>
-        <a class="tiny ui twitter button" type="button" href="https://twitter.com/glaucia_lemos86">
+        <a class="tiny ui twitter button" type="button" href="https://twitter.com/bazingashell_">
           <i class="twitter icon"></i>
           Twitter
         </a>
